@@ -29,19 +29,23 @@ namespace Aula03.Exercício01
             var especial = bool.Parse(Console.ReadLine());
 
             //Instanciar os objetos e atribuir os valores aos deus atributos (propriedades)
-            var cliente = new Cliente();
-            cliente.Nome = nome;
-            cliente.Telefone = telefone;
-            cliente.Cpf = cpf;
+            //Passa o nome do parâmetro e o valor no método.
+            var cliente = new Cliente(nome: nome, telefone: telefone, cpf: cpf);//qdo passa o parâmetro não importa a ordem
+            //var cliente = new Cliente(nome, cpf, telefone);
+            //cliente.Nome = nome;
+            //cliente.Telefone = telefone;
+            //cliente.Cpf = cpf;
 
-            var cp = new ContaPoupanca();
-            cp.Numero = numeroPoupanca;
+            //acima foi usado o constutor e pôde ser comentado as lnhas com os ?atributos? 
 
-            var cc = new ContaCorrente();
-            cc.Cliente = cliente;
-            cc.ContaPoupanca = cp;
-            cc.Numero = numeroCC;
-            cc.Especial = especial;
+            var cp = new ContaPoupanca(numeroPoupanca);
+            //cp.Numero = numeroPoupanca;
+
+            var cc = new ContaCorrente(cliente, cp, numeroCC, especial);
+            //cc.Cliente = cliente;
+            //cc.ContaPoupanca = cp;
+            //cc.Numero = numeroCC;
+            //cc.Especial = especial;
 
             if (especial)
             {

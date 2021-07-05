@@ -14,6 +14,16 @@ namespace Aula03.Exercício01.Models
         public ContaPoupanca ContaPoupanca { get; set; }
         public double Juros { get; set; }
 
+        //Construtor
+
+        public ContaCorrente(Cliente clieten, ContaPoupanca poupanca, double numero, bool especial)
+        {
+            Cliente = Cliente;
+            ContaPoupanca = poupanca;
+            Numero = numero;
+            Especial = especial;
+        }
+
         //Métodos
         public bool Depositar(decimal valor)
         {

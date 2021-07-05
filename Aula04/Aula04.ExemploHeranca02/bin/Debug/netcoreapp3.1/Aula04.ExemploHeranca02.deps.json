@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula04.ExemploHeranca02/1.0.0": {
+        "dependencies": {
+          "Aula04.ExemploHeranca": "1.0.0"
+        },
+        "runtime": {
+          "Aula04.ExemploHeranca02.dll": {}
+        }
+      },
+      "Aula04.ExemploHeranca/1.0.0": {
+        "runtime": {
+          "Aula04.ExemploHeranca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula04.ExemploHeranca02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aula04.ExemploHeranca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

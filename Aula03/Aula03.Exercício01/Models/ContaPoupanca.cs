@@ -10,6 +10,14 @@ namespace Aula03.Exercício01.Models
         public double Numero { get; set; }
         public decimal Rendimentos { get; set; }
 
+
+        //construtor
+        public ContaPoupanca(double numero)
+        {
+            Numero = numero;
+        }
+
+
         //Métodos
         public bool Depositar(decimal valor)
         {

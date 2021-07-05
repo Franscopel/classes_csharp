@@ -1,0 +1,13 @@
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExemploHeranca\bin\Debug\netcoreapp3.1\Aula04.ExemploHeranca.exe
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExemploHeranca\bin\Debug\netcoreapp3.1\Aula04.ExemploHeranca.deps.json
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExemploHeranca\bin\Debug\netcoreapp3.1\Aula04.ExemploHeranca.runtimeconfig.json
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExemploHeranca\bin\Debug\netcoreapp3.1\Aula04.ExemploHeranca.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExemploHeranca\bin\Debug\netcoreapp3.1\Aula04.ExemploHeranca.dll
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExemploHeranca\bin\Debug\netcoreapp3.1\Aula04.ExemploHeranca.pdb
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExemploHeranca\obj\Debug\netcoreapp3.1\Aula04.ExemploHeranca.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExemploHeranca\obj\Debug\netcoreapp3.1\Aula04.ExemploHeranca.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExemploHeranca\obj\Debug\netcoreapp3.1\Aula04.ExemploHeranca.AssemblyInfo.cs
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExemploHeranca\obj\Debug\netcoreapp3.1\Aula04.ExemploHeranca.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExemploHeranca\obj\Debug\netcoreapp3.1\Aula04.ExemploHeranca.dll
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExemploHeranca\obj\Debug\netcoreapp3.1\Aula04.ExemploHeranca.pdb
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExemploHeranca\obj\Debug\netcoreapp3.1\Aula04.ExemploHeranca.genruntimeconfig.cache
