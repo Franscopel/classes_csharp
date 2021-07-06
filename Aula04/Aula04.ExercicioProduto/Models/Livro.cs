@@ -28,6 +28,7 @@ namespace Aula04.ExercicioProduto.Models
         public override decimal CalcularDesconto(string cupom)
         {
             //return cupom == "FIAPBOOK" ? CalcularDesconto(30) : cupom == "FIAP10" ? CalcularDesconto(10) : Preco;
+            //base para referenciar o método 
             return cupom == "FIAPBOOK" ? CalcularDesconto(30) : base.CalcularDesconto(cupom);
         }
 

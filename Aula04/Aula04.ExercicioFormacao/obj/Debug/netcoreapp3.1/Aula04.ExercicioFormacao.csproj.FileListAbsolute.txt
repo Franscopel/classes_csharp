@@ -1,0 +1,13 @@
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExercicioFormacao\bin\Debug\netcoreapp3.1\Aula04.ExercicioFormacao.exe
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExercicioFormacao\bin\Debug\netcoreapp3.1\Aula04.ExercicioFormacao.deps.json
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExercicioFormacao\bin\Debug\netcoreapp3.1\Aula04.ExercicioFormacao.runtimeconfig.json
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExercicioFormacao\bin\Debug\netcoreapp3.1\Aula04.ExercicioFormacao.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExercicioFormacao\bin\Debug\netcoreapp3.1\Aula04.ExercicioFormacao.dll
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExercicioFormacao\bin\Debug\netcoreapp3.1\Aula04.ExercicioFormacao.pdb
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExercicioFormacao\obj\Debug\netcoreapp3.1\Aula04.ExercicioFormacao.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExercicioFormacao\obj\Debug\netcoreapp3.1\Aula04.ExercicioFormacao.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExercicioFormacao\obj\Debug\netcoreapp3.1\Aula04.ExercicioFormacao.AssemblyInfo.cs
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExercicioFormacao\obj\Debug\netcoreapp3.1\Aula04.ExercicioFormacao.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExercicioFormacao\obj\Debug\netcoreapp3.1\Aula04.ExercicioFormacao.dll
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExercicioFormacao\obj\Debug\netcoreapp3.1\Aula04.ExercicioFormacao.pdb
+C:\Users\franc\Desktop\Projetos\Aula04\Aula04.ExercicioFormacao\obj\Debug\netcoreapp3.1\Aula04.ExercicioFormacao.genruntimeconfig.cache
