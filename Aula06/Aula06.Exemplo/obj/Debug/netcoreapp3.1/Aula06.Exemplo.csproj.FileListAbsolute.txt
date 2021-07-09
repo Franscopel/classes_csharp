@@ -1,0 +1,13 @@
+C:\Users\franc\Desktop\Projetos\Aula06\Aula06.Exemplo\bin\Debug\netcoreapp3.1\Aula06.Exemplo.exe
+C:\Users\franc\Desktop\Projetos\Aula06\Aula06.Exemplo\bin\Debug\netcoreapp3.1\Aula06.Exemplo.deps.json
+C:\Users\franc\Desktop\Projetos\Aula06\Aula06.Exemplo\bin\Debug\netcoreapp3.1\Aula06.Exemplo.runtimeconfig.json
+C:\Users\franc\Desktop\Projetos\Aula06\Aula06.Exemplo\bin\Debug\netcoreapp3.1\Aula06.Exemplo.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Projetos\Aula06\Aula06.Exemplo\bin\Debug\netcoreapp3.1\Aula06.Exemplo.dll
+C:\Users\franc\Desktop\Projetos\Aula06\Aula06.Exemplo\bin\Debug\netcoreapp3.1\Aula06.Exemplo.pdb
+C:\Users\franc\Desktop\Projetos\Aula06\Aula06.Exemplo\obj\Debug\netcoreapp3.1\Aula06.Exemplo.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Projetos\Aula06\Aula06.Exemplo\obj\Debug\netcoreapp3.1\Aula06.Exemplo.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Projetos\Aula06\Aula06.Exemplo\obj\Debug\netcoreapp3.1\Aula06.Exemplo.AssemblyInfo.cs
+C:\Users\franc\Desktop\Projetos\Aula06\Aula06.Exemplo\obj\Debug\netcoreapp3.1\Aula06.Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Projetos\Aula06\Aula06.Exemplo\obj\Debug\netcoreapp3.1\Aula06.Exemplo.dll
+C:\Users\franc\Desktop\Projetos\Aula06\Aula06.Exemplo\obj\Debug\netcoreapp3.1\Aula06.Exemplo.pdb
+C:\Users\franc\Desktop\Projetos\Aula06\Aula06.Exemplo\obj\Debug\netcoreapp3.1\Aula06.Exemplo.genruntimeconfig.cache

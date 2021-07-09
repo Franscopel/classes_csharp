@@ -4,10 +4,10 @@ C:\Users\franc\Desktop\Projetos\Aula03\Aula03.Exercício01\bin\Debug\netcoreapp3
 C:\Users\franc\Desktop\Projetos\Aula03\Aula03.Exercício01\bin\Debug\netcoreapp3.1\Aula03.Exercício01.runtimeconfig.dev.json
 C:\Users\franc\Desktop\Projetos\Aula03\Aula03.Exercício01\bin\Debug\netcoreapp3.1\Aula03.Exercício01.dll
 C:\Users\franc\Desktop\Projetos\Aula03\Aula03.Exercício01\bin\Debug\netcoreapp3.1\Aula03.Exercício01.pdb
-C:\Users\franc\Desktop\Projetos\Aula03\Aula03.Exercício01\obj\Debug\netcoreapp3.1\Aula03.Exercício01.csproj.AssemblyReference.cache
 C:\Users\franc\Desktop\Projetos\Aula03\Aula03.Exercício01\obj\Debug\netcoreapp3.1\Aula03.Exercício01.AssemblyInfoInputs.cache
 C:\Users\franc\Desktop\Projetos\Aula03\Aula03.Exercício01\obj\Debug\netcoreapp3.1\Aula03.Exercício01.AssemblyInfo.cs
 C:\Users\franc\Desktop\Projetos\Aula03\Aula03.Exercício01\obj\Debug\netcoreapp3.1\Aula03.Exercício01.csproj.CoreCompileInputs.cache
 C:\Users\franc\Desktop\Projetos\Aula03\Aula03.Exercício01\obj\Debug\netcoreapp3.1\Aula03.Exercício01.dll
 C:\Users\franc\Desktop\Projetos\Aula03\Aula03.Exercício01\obj\Debug\netcoreapp3.1\Aula03.Exercício01.pdb
 C:\Users\franc\Desktop\Projetos\Aula03\Aula03.Exercício01\obj\Debug\netcoreapp3.1\Aula03.Exercício01.genruntimeconfig.cache
+C:\Users\franc\Desktop\Projetos\Aula03\Aula03.Exercício01\obj\Debug\netcoreapp3.1\Aula03.Exercício01.csprojAssemblyReference.cache

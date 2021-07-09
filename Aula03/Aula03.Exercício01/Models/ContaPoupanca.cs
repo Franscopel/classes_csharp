@@ -4,10 +4,8 @@ using System.Text;
 
 namespace Aula03.Exercício01.Models
 {
-    class ContaPoupanca
+    class ContaPoupanca : Conta, IcontaInvestimento
     {
-        public decimal Saldo { get; private set; }
-        public double Numero { get; set; }
         public decimal Rendimentos { get; set; }
 
 
@@ -19,17 +17,7 @@ namespace Aula03.Exercício01.Models
 
 
         //Métodos
-        public bool Depositar(decimal valor)
-        {
-            //validar se o valor de depósito é positivo
-            if(valor > 0)
-            {
-                Saldo += valor;
-                return true;
-            }
-            return false;
-        }
-
+       
         public bool Retirar(decimal valor)
         {
             //validar se o saldo é suficiente
@@ -38,7 +26,12 @@ namespace Aula03.Exercício01.Models
                 Saldo -= valor;
                 return true;
             }
-            return false;
+            throw new Exception("Saldo insuficiente"); //substituiu o: return false;
+        }
+
+        public decimal CalcularRetornoInvestimento(decimal taxa)
+        {
+            return Saldo * taxa;
         }
     }
 }

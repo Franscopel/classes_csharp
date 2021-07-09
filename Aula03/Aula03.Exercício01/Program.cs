@@ -22,7 +22,7 @@ namespace Aula03.Exercício01
             var numeroPoupanca = double.Parse(Console.ReadLine());
 
             //Ler os dados da conta corrente (número, especial(se sim, juros e limte))
-            Console.WriteLine("Digite o nome da conta corrente");
+            Console.WriteLine("Digite o número da conta corrente");
             var numeroCC = double.Parse(Console.ReadLine());
 
             Console.WriteLine("A conta corrente é especial?");
@@ -72,16 +72,27 @@ namespace Aula03.Exercício01
                     case 1:
                         Console.WriteLine("Digite valor para depósito");
                         var valor = decimal.Parse(Console.ReadLine());
-                        cc.Depositar(valor);
-                        Console.WriteLine($"O saldo é {cc.Saldo} e o saldo total é {cc.RetornarSaldoTotal()}");
+                        try
+                        {
+                            cc.Depositar(valor);
+                            Console.WriteLine($"O saldo é {cc.Saldo} e o saldo total é {cc.RetornarSaldoTotal()}");
+                        } catch(Exception e)
+                        {
+                            Console.WriteLine(e.Message);
+                        }
                         break;
                     case 2:
                         Console.WriteLine("Digite valor para saque");
                         valor = decimal.Parse(Console.ReadLine());
-                        cc.Retirar(valor);
-                        Console.WriteLine($"O saldo é {cc.Saldo} e o saldo total é {cc.RetornarSaldoTotal()}");
+                        try
+                        {
+                            cc.Retirar(valor);
+                            Console.WriteLine($"O saldo é {cc.Saldo} e o saldo total é {cc.RetornarSaldoTotal()}");
+                        } catch (Exception e)
+                        {
+                            Console.WriteLine(e.Message);
+                        }
                         break;
-
                     case 3:
                         Console.WriteLine("Digite valor para transferência");
                         valor = decimal.Parse(Console.ReadLine());

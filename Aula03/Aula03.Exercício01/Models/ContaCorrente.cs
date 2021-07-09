@@ -4,10 +4,8 @@ using System.Text;
 
 namespace Aula03.Exercício01.Models
 {
-    class ContaCorrente
+    class ContaCorrente : Conta
     {
-        public decimal Saldo { get; private set; }
-        public double Numero { get; set; }
         public bool Especial { get; set; }
         public decimal Limite { get; set; }
         public Cliente Cliente { get; set; }
@@ -25,16 +23,7 @@ namespace Aula03.Exercício01.Models
         }
 
         //Métodos
-        public bool Depositar(decimal valor)
-        {
-            //validar se o valor de depósito é positivo
-            if (valor > 0)
-            {
-                Saldo += valor;
-                return true;
-            }
-            return false;
-        }
+
         public bool Retirar(decimal valor)
         {
             //Valida se a conta é especial
@@ -55,7 +44,7 @@ namespace Aula03.Exercício01.Models
                 }
 
             }
-            return false;
+            throw new Exception("Saldo insuficiente"); //substituiu o: return false;
         }
         /*if ((Especial && valor <= Saldo + Limite) || (!Especial && valor <= Saldo))
          {
